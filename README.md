@@ -4,7 +4,13 @@ I am a passionate self-taught full-stack developer and freelance software engine
 
 Even in the early days of my passion for software development, I maintained open source projects, that was long before GitHub existed. I've learned a lot from the open source community, and I love how collaboration and knowledge sharing works through open source.
 
-#### Things I like to use
+### You may say thank you
+
+I was able to help you with a problem and you would like to thank me here is the opportunity
+
+https://www.paypal.me/nagerat/15 😃
+
+### Things I like to use
 <p>
   <img alt=".NET" src="https://img.shields.io/badge/-Net-783bd2?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img alt="c#" src="https://img.shields.io/badge/-csharp-783bd2?style=for-the-badge&logo=csharp&logoColor=white" />
