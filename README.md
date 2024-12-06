@@ -4,11 +4,11 @@ I am a passionate self-taught full-stack developer and freelance software engine
 
 Even in the early days of my passion for software development, I maintained open source projects, that was long before GitHub existed. I've learned a lot from the open source community, and I love how collaboration and knowledge sharing works through open source.
 
-### You may say thank you
+### Need Professional Support?
+If you're looking for expert assistance or tailored solutions, feel free to reach out to Nager Software.
+Whether it's consulting, implementation, or support for your projects, we're here to help!
 
-I was able to help you with a problem and you would like to thank me here is the opportunity
-
-https://www.paypal.me/nagerat/15 😃
+https://nager.software
 
 ### Things I like to use
 <p>
